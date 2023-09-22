@@ -4,7 +4,7 @@ overview: How to develop SLATE using containers
 published: true
 permalink: blog/2023-05-09-containerized-development.html
 attribution: Suchandra Thapa, Adam Griffith
-layout: post
+layout: default
 type: markdown
 
 ---

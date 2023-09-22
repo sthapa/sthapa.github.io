@@ -30,7 +30,7 @@ twitter_username: lostinthegrid
 github_username:  sthapa
 
 # Build settings
-remote_theme: pages-themes/time-machine
+remote_theme: pages-themes/tactile
 plugins:
   - jekyll-remote-theme
   - jekyll-feed

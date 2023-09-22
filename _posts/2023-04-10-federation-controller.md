@@ -4,7 +4,7 @@ overview: A guide to the new federation controller
 published: true
 permalink: blog/2023-04-10-federation-controller.html
 attribution: Suchandra Thapa
-layout: post
+layout: default
 type: markdown
 ---
 
