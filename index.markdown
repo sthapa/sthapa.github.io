@@ -5,10 +5,13 @@
 layout: default
 ---
 
-Random blog posts about how to do various development related tasks.  
+Hi, I'm Suchandra. I'm a developer with a varied background working mainly on 
+distributed computing software in several languages (python, c++, go, etc.). This 
+site is where I post articles about various things that I've worked on and which 
+may be of interest to others.
 
 ## Blog posts
 
 {% for post in site.posts %}   
-   * [{{ post.title }}]({{ post.url }})
+   * [{{ post.title }}]({{ post.url }}): {{post.excerpt}}
 {% endfor %}
